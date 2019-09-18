@@ -39,7 +39,3 @@ html, body{
     z-index: 2;
 }
 
-video {
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
-}
